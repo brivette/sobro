@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'TrendSansFive';
+    src: url(./TrendSansFive.ttf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #f3f3f3;
+}
+
+h1 {
+    font-family: 'TrendSansFive';
+    font-size: 5.5rem;
+    color: #333;
+    margin: 1rem 2rem;
+}
+
